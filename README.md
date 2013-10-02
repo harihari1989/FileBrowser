@@ -7,4 +7,4 @@ I used a shell utility called dialog for the User Interface.
 
 Usage:
 
-python filefinder.py <filepath> <filename> <texteditor>
+python filefinder.py [filepath] [filename_to_be_searched_and_opened] [texteditor_to_open]
